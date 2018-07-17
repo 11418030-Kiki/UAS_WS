@@ -1,0 +1,15 @@
+{
+  "0": 200,
+  "result": [
+    {
+    
+  "id_tanaman": "1",
+
+      "nama_tanaman": "angrek",
+
+      "jenis_tanaman": "g tau",
+ 
+     "harga_tanaman": "20000"
+    }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+{
+  "0": 200,
+  "result": [
+    {
+    
+  "id_tanaman": "1",
+
+      "nama_tanaman": "angrek",
+
+      "jenis_tanaman": "bunga",
+ 
+     "harga_tanaman": "20000"
+    }
+    ]
+}
+
+{
+    "0": 200,
+    "result": [
+        {
+            "id_jenis_tanaman": "1",
+            "jenis_tanaman": "bunga”
+        }
+    ]
+}
+
+{
+    "0": 200,
+    "result": [
+        {
+            "id_harga_tanaman": "1",
+            "harga_tanaman": "100000"
+        }
+    ]
+}
+}
+
